@@ -1,1 +1,1 @@
-# CurrentlyConverter.github.io
+# CurrencyConverter.github.io
